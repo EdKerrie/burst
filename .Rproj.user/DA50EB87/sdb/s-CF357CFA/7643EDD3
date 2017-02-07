@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1486498775393.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7643EDD3",
+    "lastKnownWriteTime" : 1486498796,
+    "last_content_update" : 1486498796870,
+    "path" : "C:/Users/jesse/OneDrive/Data Projects/Burst/Neo4J.R",
+    "project_path" : "Neo4J.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
